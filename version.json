@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "2026-11-07",
-  "release_notes": "Official v1.0.1 release: Global engine toggle shortcut (Ctrl+Alt+O), maximized layout improvements, responsive micro-interactions.",
-  "installer_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.1/ClipoTxt-Setup-v1.0.1.exe",
-  "installer_sha256": "023dc45b9fb340ee23bbc79b8fdf4152ef89ca091bb4c875f1543f635604983a",
-  "portable_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.1/ClipoTxt-v1.0.1-windows-x64-portable.zip",
-  "portable_sha256": "7a19377f1e83aa7b9c78c8033406befa8c6dfb6d0dbd2d260dc5c314d1bf1456"
+  "release_notes": "Official v1.0.2 release: Dual-mode installer scoping fix, seamless one-click in-app update with automatic restart, and verified data preservation.",
+  "installer_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.2/ClipoTxt-Setup-v1.0.2.exe",
+  "installer_sha256": "2b2f59143d0e8b3b2ff99310d927e062b3c5815151f1d5047e29f982c82a79a1",
+  "portable_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.2/ClipoTxt-v1.0.2-windows-x64-portable.zip",
+  "portable_sha256": "9e4ca36cab4e1a43fd1047e206b2c6800b16eb890403a3b952614b50a7599cb2"
 }
