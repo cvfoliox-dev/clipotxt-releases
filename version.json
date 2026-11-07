@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "release_date": "2026-11-07",
-  "release_notes": "Official v1.0.0 release: Forest Green design system, responsive UI, independent CPU benchmark, RapidOCR local engine.",
-  "installer_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.0/ClipoTxt-Setup-v1.0.0.exe",
-  "installer_sha256": "0a59da1943b9797361c8ba6bd9c02d2d3d57de4fca4b8e72ee8697bdb13aeed5",
-  "portable_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.0/ClipoTxt-v1.0.0-windows-x64-portable.zip",
-  "portable_sha256": "cd769bf316444236482b80f3c7cd75d094e03fa62e9bfeeb1bf8097c3e54ba38"
+  "release_notes": "Official v1.0.1 release: Global engine toggle shortcut (Ctrl+Alt+O), maximized layout improvements, responsive micro-interactions.",
+  "installer_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.1/ClipoTxt-Setup-v1.0.1.exe",
+  "installer_sha256": "023dc45b9fb340ee23bbc79b8fdf4152ef89ca091bb4c875f1543f635604983a",
+  "portable_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.1/ClipoTxt-v1.0.1-windows-x64-portable.zip",
+  "portable_sha256": "7a19377f1e83aa7b9c78c8033406befa8c6dfb6d0dbd2d260dc5c314d1bf1456"
 }
