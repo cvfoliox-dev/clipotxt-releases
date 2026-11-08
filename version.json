@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.2",
-    "release_date":  "2026-11-07",
-    "release_notes":  "Official v1.0.2 release: Dual-mode installer scoping fix, seamless one-click in-app update with automatic restart, and verified data preservation.",
-    "installer_url":  "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.2/ClipoTxt-Setup-v1.0.2.exe",
-    "installer_sha256":  "d04ba5a18282c72f597007e86f73ae1692b933897f894e3a81ddc1f0bf761a56",
-    "portable_url":  "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.2/ClipoTxt-v1.0.2-windows-x64-portable.zip",
-    "portable_sha256":  "9e4ca36cab4e1a43fd1047e206b2c6800b16eb890403a3b952614b50a7599cb2"
+  "version": "1.0.3",
+  "release_date": "2026-11-08",
+  "release_notes": "Official v1.0.3 release: Mandatory Start Menu shortcut, robust Windows uninstaller architecture, seamless one-click updates with automatic restart, and verified data preservation.",
+  "installer_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.3/ClipoTxt-Setup-v1.0.3.exe",
+  "installer_sha256": "f7d65deb4422d7e2259e93d66f263136d84cc2a621aa32e2fbc5102cc85a304b",
+  "portable_url": "https://github.com/cvfoliox-dev/clipotxt-releases/releases/download/v1.0.3/ClipoTxt-v1.0.3-windows-x64-portable.zip",
+  "portable_sha256": "e80609ca285339dd129631e586a7a6c3f5d4b8afc91ceebd96eb8bb077b25857"
 }
